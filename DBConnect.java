@@ -1,2 +1,3 @@
 This is my first git practice file
-Ihave updated file
+I have updated file
+Doing practice
